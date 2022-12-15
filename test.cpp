@@ -1,8 +1,3 @@
-# any_range
-
-C++17 any_range
-
-```example
 #include "any_range.hpp"
 #include <vector>
 #include <array>
@@ -27,4 +22,3 @@ void print_container(const any_range<int> int_range){
     }
     std::endl(std::cout);
 }
-```
